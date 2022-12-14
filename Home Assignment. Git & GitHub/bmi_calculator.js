@@ -33,6 +33,6 @@ function bmiCalculator(name, weight, height) {
 
 //Manual Testing
 bmiCalculator(`Subject1`, 45, 1.7) // If value is less than 18.5. Underweight.
-bmiCalculator(`Subject2`, 55, 1.7) // If value is greater than or equal to 18.5 and less than 24.9. Normal weight.
+bmiCalculator(`Subject2`, 55, 1.7) // If value is greater than or equal to 18.5 and less than 24.9. Normal Weight.
 bmiCalculator(`Subject3`, 75, 1.7) // If value is greater than or equal to 24.9 and less than 30. Overweight.
 bmiCalculator(`Subject4`, 90, 1.7) // If Value is greater than 30. Obese.
